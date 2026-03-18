@@ -39,11 +39,11 @@ A console-based Hospital Management System built in **C** using binary file I/O,
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/hospital-management-system-c.git
+git clone https://github.com/mr-fawad-khan-official-creator/hospital-management-system-c.git
 cd hospital-management-system-c
 
 # Compile
-gcc hospital.c -o hospital
+gcc Hospital.c -o hospital
 
 # Run
 ./hospital          # Linux / macOS
